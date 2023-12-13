@@ -15,6 +15,8 @@ In D.D. Entertainment we want to develop an application to help our Pokémon ent
 * *Team List:* 
   The trainer must have access to the list of Pokémon in their PSS, delete a Pokémon from their PSS, add it to their team.​
   Every trainer can have up to 960 Pokémon in their PSS but only up to 6 can be in their team.​
+
+  
 ![Pokemon Overview](https://github.com/mmousiou/TechPro---Deloitte-Workshop-Front-End/blob/main/Overview.PNG)
   
 
